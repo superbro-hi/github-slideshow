@@ -3,4 +3,4 @@ layout: slide
 title: "the second slide"
 ---
 your text
-use left arrow to go back
+pink thing is a meme
